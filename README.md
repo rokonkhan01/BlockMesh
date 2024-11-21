@@ -24,7 +24,7 @@ Go to Ubuntu. ( or any terminal where you want to run it)
 
 Copy and Paste this command :- 
 
-git clone https://github.com/username/blockmesh-setup.git && cd blockmesh-setup && chmod +x install_blockmesh.sh && ./install_blockmesh.sh
+"git clone https://github.com/username/blockmesh-setup.git && cd blockmesh-setup && chmod +x install_blockmesh.sh && ./install_blockmesh.sh"
 
 (edit this "username" with your own github usename) -because You are making this command with your own github repository. 
 
@@ -42,7 +42,7 @@ Just edit the version to the latest version available in the download section. E
 
 Save it .
 
-Then Run (Line-13) Command again in your terminal (Ubuntu).
+Then Run the (Step-3) Command again in your terminal (Ubuntu).
 
 
 
