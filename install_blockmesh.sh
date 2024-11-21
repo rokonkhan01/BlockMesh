@@ -16,4 +16,4 @@ curl -L https://github.com/block-mesh/block-mesh-monorepo/releases/download/v0.0
 tar -xzf blockmesh-cli.tar.gz --strip-components=3 -C target/release
 
 # Login to blockmesh CLI
-./target/release/blockmesh-cli login --email 'mdrokonkhan01@gmail.com' --password '@Rokon556655'
+./target/release/blockmesh-cli login --email 'Your email address' --password 'Your_Passward'
