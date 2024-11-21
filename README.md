@@ -22,9 +22,9 @@ Step-3
 
 Go to Ubuntu. ( or any terminal where you want to run it)
 
-Copy and Paste this command :- 
+Copy and Paste this command whole command: (without "")
 
-<git clone https://github.com/username/blockmesh-setup.git && cd blockmesh-setup && chmod +x install_blockmesh.sh && ./install_blockmesh.sh>
+"git clone https://github.com/username/blockmesh-setup.git && cd blockmesh-setup && chmod +x install_blockmesh.sh && ./install_blockmesh.sh"
 
 (edit this "username" with your own github usename) -because You are making this command with your own github repository. 
 
