@@ -12,7 +12,7 @@ You can copy/fork/clone my "blockmesh-setup" repository exactly with same name a
 
 Then go to "install_blockmesh.sh" to edit.
 
-Replace "Your email address" and "Passward" with your own registered details.(At the bottom)
+Replace "Your email address" and "Passward" with your own registered details. (At the bottom)
 
 Now save it.
 
@@ -22,7 +22,7 @@ Step-3
 
 Go to Ubuntu. ( or any terminal where you want to run it)
 
-Copy and Paste this command whole command: (without "")
+Copy and Paste this command whole command : (Without "  ")
 
 "git clone https://github.com/username/blockmesh-setup.git && cd blockmesh-setup && chmod +x install_blockmesh.sh && ./install_blockmesh.sh"
 
