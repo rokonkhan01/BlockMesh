@@ -1,7 +1,12 @@
+Step-1
+
 If you are not registered with BlockMesh, first register here: 
 
 https://app.blockmesh.xyz/register?invite_code=a988afe5-0573-45f0-9d1f-3bbdd5c6f039
 
+
+
+Step-2
 
 You can copy/fork/clone my "blockmesh-setup" repository exactly with same name and details (however you can).
 
@@ -12,6 +17,8 @@ Replace "Your email address" and "Passward" with your own registered details.(At
 Now save it.
 
 
+
+Step-3
 
 Go to Ubuntu. ( or any terminal where you want to run it)
 
@@ -25,6 +32,8 @@ That's it. Done.
 
 
 
+Step-4
+
 If you want to update your BlockMesh CLI version-
 
 GO to "install_blockmesh.sh" 
@@ -36,6 +45,8 @@ Save it .
 Then Run (Line-13) Command again in your terminal (Ubuntu).
 
 
+
+Credit
 
 This whole Script was made by me (MD.ROKON KHAN) through research and with the help of chat-GPT.
 
